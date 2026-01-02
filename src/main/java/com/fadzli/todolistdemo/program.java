@@ -4,11 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TodolistdemoApplication {
+public class program {
 
     public static void main(String[] args) {
-        //update
-        SpringApplication.run(TodolistdemoApplication.class, args);
+        SpringApplication.run(program.class, args);
     }
 
 }
